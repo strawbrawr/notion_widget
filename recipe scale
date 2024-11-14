@@ -1,0 +1,10 @@
+<div id="recipe-scale-calculator" style="width: 100%; height: 825px;">
+    <div id="recipe-scale-calculator-header">Recipe Scale Conversion Calculator</div>
+    <div id="recipe-scale-calculator-footer">
+        <a href="https://www.inchcalculator.com/recipe-scale-conversion-calculator/" target="_blank">
+            <img src="https://cdn.inchcalculator.com/e/inch-calculator-logo-tiny.png" alt="Inch Calculator Logo" width="40" height="49">
+            <span>Inch Calculator</span>
+        </a>
+    </div>
+</div>
+<script src="https://cdn.inchcalculator.com/e/widgets.min.js" async defer></script>
